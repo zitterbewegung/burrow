@@ -5,7 +5,7 @@
 | Master | [![Circle CI](https://circleci.com/gh/hyperledger/burrow/tree/master.svg?style=svg)](https://circleci.com/gh/hyperledger/burrow/tree/master) |
 | Develop | [![Circle CI (develop)](https://circleci.com/gh/hyperledger/burrow/tree/develop.svg?style=svg)](https://circleci.com/gh/hyperledger/burrow/tree/develop) |
 
-Hyperledger Burrow is a permissioned Ethereum smart-contract blockchain node built with <3 by Monax. It executes Ethereum smart contract code on a permissioned virtual machine. Burrow provides transaction finality and high transaction throughput on a proof-of-stake Tendermint consensus engine. For smart contract development most functionality is provided by `monax chains`, exposed through [monax](https://monax.io/docs), the entry point for the Monax Platform.
+Hyperledger Burrow is a permissioned Ethereum smart-contract blockchain node built with <3 by Monax. It executes Ethereum smart contract code on a permissioned virtual machine. Burrow provides transaction finality and high transaction throughput on a proof-of-stake Tendermint consensus engine. For smart contract development most functionality is provided by `monax chains`, exposed through [monax](https://monax.io/docs/), the entry point for the Monax Platform.
 
 ## Table of Contents
 
